@@ -36,7 +36,7 @@ A game-coding agent that turns written specifications into browser games, runs c
 - Distinguished agent self-tests, independent automated checks and manual gameplay evidence, rather than treating a successful launch as complete gameplay acceptance.
 - Reviewed failure cases and consistency between visible UI and game state, including rules, win/loss states and restart behavior; documented findings for team review and iteration.
 
-[Team repository](https://github.com/LIZIHAO-NTU/PE6203_PlayForge)
+[Team repository](https://github.com/LIZIHAO-NTU/PE6203_PlayForge) · [My fork](https://github.com/513-wys/PE6203_PlayForge)
 
 ### UiPath — Agent-Assisted Competitor Analysis Workflow
 
@@ -49,6 +49,14 @@ An automation workflow for comparing GitHub issue feedback from **Streamlit and 
 - Designed the flow connecting structured issue analyses to a Comparison Agent, spreadsheet updates and recipient-controlled email reporting.
 - Defined agent inputs, JSON outputs and a metrics-retrieval tool.
 - Separated formula-based counts and deterministic operations from AI-generated pain-point synthesis and competitive insights.
+
+## Additional evaluation case study
+
+### UiPath Learning Companion
+
+**My focus: evaluation, evidence checking and failure analysis.** Compared three historical variants using 20 shared cases and 60 outputs, reviewed correctness, grounding, learning usefulness and robustness, and documented failure cases. The application was developed by the wider team.
+
+[Evaluation case study and results](https://github.com/513-wys/learning-companion-evaluation) · [Original team application](https://github.com/Tonya0719/UiPath-Learning-Companion)
 
 ## Experience I bring
 
