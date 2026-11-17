@@ -24,6 +24,10 @@ A four-person team prototype exploring AI-assisted scheduling and disruption rec
 - Coordinated an **AI-generated short-drama product advertisement** and demo narrative, checking product claims against implemented features.
 - Delivered the opening and product overview at the final presentation. Our team won **1st Place in the Public Category** at the NUS-ISS Show Me Your Agents Hackathon.
 
+[Video showcase](https://mendigo-yushan-portfolio.yushan006.chatgpt.site) · [Live customer entry](https://mendigo.54-251-220-102.sslip.io/) · [Team GitHub](https://github.com/Tonya0719/Questbond)
+
+The showcase plays without a login. Staff workspaces in the team application remain password protected.
+
 ### PlayForge — Game-Creation Agent Evaluation
 
 *Team course project · October 2026*
@@ -44,11 +48,21 @@ A game-coding agent that turns written specifications into browser games, runs c
 
 An automation workflow for comparing GitHub issue feedback from **Streamlit and Gradio**, combining structured analysis with AI-generated product insights.
 
-**My focus: Workflow 3 — Comparison & Delivery.**
+**My focus: automation design and Agent integration.**
 
 - Designed the flow connecting structured issue analyses to a Comparison Agent, spreadsheet updates and recipient-controlled email reporting.
 - Defined agent inputs, JSON outputs and a metrics-retrieval tool.
 - Separated formula-based counts and deterministic operations from AI-generated pain-point synthesis and competitive insights.
+
+### TraceInbox — Email Intelligence Assistant
+
+*AI-assisted personal prototype · September–October 2026*
+
+**My focus: product definition, workflow design and evaluation with AI-assisted prototyping.** A bilingual workspace for email triage, action extraction, topic organization and cited cross-email questions. I reviewed retrieval, citations and answer failures using synthetic cases.
+
+[Interactive demo](https://email-agent-workflow.onrender.com/) · [GitHub](https://github.com/513-wys/email-agent-workflow)
+
+The public demo uses 20 fictional emails and simulated responses. It does not connect a visitor’s real mailbox or API key; the hosted multi-user implementation remains a prototype.
 
 ## Additional evaluation case study
 
